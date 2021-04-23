@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 d23d6261a7d0cc8915115ca17a1892acc6c5a7ac loupo79565 <chenloupo@gmail.com> 1603705213 +0200	commit (initial): first commit
-d23d6261a7d0cc8915115ca17a1892acc6c5a7ac d23d6261a7d0cc8915115ca17a1892acc6c5a7ac loupo79565 <chenloupo@gmail.com> 1603705391 +0200	Branch: renamed refs/heads/master to refs/heads/main
-d23d6261a7d0cc8915115ca17a1892acc6c5a7ac 63fd07fc024c2f3ff9c0e3f540f73cc775f97400 loupo79565 <chenloupo@gmail.com> 1603707484 +0200	commit: Changed README
-63fd07fc024c2f3ff9c0e3f540f73cc775f97400 605d1cb4c8dcad59137c9fd4202219a298664eb1 loupo79565 <chenloupo@gmail.com> 1603960521 +0200	pull: Fast-forward
-605d1cb4c8dcad59137c9fd4202219a298664eb1 dcd9b27d3e254bc0c88ee7550607bd0b0fcb17fb loupo79565 <chenloupo@gmail.com> 1603962421 +0200	pull: Fast-forward
-dcd9b27d3e254bc0c88ee7550607bd0b0fcb17fb 4320ae7851e5443cbfdf766b8221bda25dc643d0 loupo79565 <chenloupo@gmail.com> 1603962650 +0200	commit: .myname
-4320ae7851e5443cbfdf766b8221bda25dc643d0 371d6448f0f7125341ab3716c7c2ec66f2766f98 loupo79565 <chenloupo@gmail.com> 1604067874 +0200	pull: Fast-forward
