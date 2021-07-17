@@ -8,3 +8,11 @@ this is my git practice
 ```bash
 git clone <url>
 ```
+
+# git practice 17/07/2021
+this is a new practice in removing files
+## removing files in local repo
+- git rm <file>
+- git status
+- git commit -am "you commit"
+- git push
